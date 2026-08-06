@@ -1,0 +1,8 @@
+# Typings
+
+This library is built with Flow but it supports TypeScript as well.
+
+You can find the exported Flow types in `src/index.js`, and the TypeScript
+definitions in `typings/react-popper.d.ts`.
+
+You don't need any additional configuration to consume the types.

@@ -1,0 +1,19 @@
+# Apply Styles
+
+The `applyStyles` modifier writes the styles in `state.styles` and
+`state.attributes` to the popper element.
+
+If you're using a library like React, you may want to implement your own
+`applyStyles` modifier `fn` to delegate DOM writes to it.
+
+## Phase
+
+`write`
+
+## Options
+
+This modifier currently has no options.
+
+## Data
+
+This modifier currently has no data.
